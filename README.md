@@ -1,4 +1,4 @@
-# .ui-to-.py-converter
+# .ui to .py-converter
 GUI for converting .ui files to .py 
 
 pyuic5.exe needs to be in the same folder as the main.py. 
