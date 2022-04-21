@@ -65,12 +65,10 @@ class Ui_MainWindow(object):
         self.py_locate.setText(_translate("MainWindow", "Output Location (.py)"))
 
     def ui_location(self):
-        print("haldadado")
         ui_file = QFileDialog.getOpenFileName()[0]
         self.ui_path.setText(ui_file)
         
     def py_location(self):
-        print("halo")
         py_file = QFileDialog.getOpenFileName()[0]
         self.py_path.setText(py_file)
             
