@@ -10,3 +10,6 @@ How it works:
 
 # TODO:
 Currently this program has almost no error handling. So next thing to do is add some.
+
+# App should look like this:
+![image](https://user-images.githubusercontent.com/80245457/164607789-6f8081e6-448c-43a4-ab0d-aeacecba2a0e.png)
