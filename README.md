@@ -8,4 +8,5 @@ How it works:
 2. Select the location that you want the .py file to be saved.
 3. Press convert
 
-# TODO Error handling
+# TODO:
+Currently this program has almost no error handling. So next thing to do is add some.
