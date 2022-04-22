@@ -7,3 +7,5 @@ How it works:
 1. Locate your ui file that you want to convert.
 2. Select the location that you want the .py file to be saved.
 3. Press convert
+
+# TODO Error handling
